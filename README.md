@@ -1,6 +1,8 @@
 # Agent Beacon Handoff Helper
 
 A user-friendly Bash helper for setting up and using [Agent Beacon](https://github.com/Asymptote-Labs/agent-beacon) for **cross-agent development handoffs**.
+The project was initially discovered through the
+[Agent Beacon CI Telemetry GitHub Action](https://github.com/marketplace/actions/agent-beacon-ci-telemetry).
 
 The goal is simple:
 
